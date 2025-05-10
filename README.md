@@ -2,7 +2,6 @@
 Final Project using Laravel's framework for the Database and Web Applications Laboratory curricular unit.
 
 ## Project Infos
-
 - Date: 3rd Year, 1st Semester
 - Course: Laboratório de Bases de Dados e Aplicações Web | Database and Web Applications Laboratory
 - Course Link: https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541888
